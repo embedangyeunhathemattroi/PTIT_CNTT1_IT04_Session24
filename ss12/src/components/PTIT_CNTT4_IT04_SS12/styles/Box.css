@@ -1,0 +1,40 @@
+.box-container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 30px;
+}
+.box-item{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+.box {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:wheat;
+  font-weight: bold;
+}
+.box-red {
+  background-color: red;
+}
+
+.box-blue {
+  background-color: blue;
+}
+.box-green {
+  background-color: green;
+}
+
+
+.label{
+    margin-top: 10px;
+    border: 1px solid gray;
+    padding: 5px 15px;
+    border-radius: 4px;
+    position: relative;
+}
+

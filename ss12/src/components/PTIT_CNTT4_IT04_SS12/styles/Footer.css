@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.Footer{
+    height: 56px;
+    width: 100%;
+    background-color: rgb(206, 185, 185);
+}
